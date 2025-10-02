@@ -15,9 +15,3 @@ A Python-based Security Operations Center (SOC) tool that monitors SSH authentic
 - Python 3.x
 - No external dependencies required
 
-## 🚀 Quick Start
-
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/yourusername/ssh-bruteforce-detector.git
-   cd ssh-bruteforce-detector
